@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AmTUCjYDJ1GImBj50+lK2luNpvTjC0KRBXVBuN90wok=",
+  "Source": "backgroundapp",
+  "BasePath": "_content/backgroundapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
